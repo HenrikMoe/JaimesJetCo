@@ -17,8 +17,8 @@ Development Provisions
 Service Applications
 
 - Rust API Assembly Applications
-- Quote Generation applications
-- Stripe Interface applications
+- Quote Generation Applications
+- Stripe Interface Applications
 - Plane Fly Docs API Interfaces Applications
 - Studio-Developed User Interface Applications
 - PostgreSQL Storage
