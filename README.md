@@ -1,18 +1,24 @@
-# JaimesJetCo
-.
+James Sperry Jet Co. 
 
-2025 projections
+2025 Development
 
 7k /mo sal pt
 
-100k for studio interface dev budget
+100k for studio interface dev budget 
 
-hardware
+Hardware
+(2 servers at 2k each)
 
-dev provs 
+Development Provisions 
 
-nix
+- Nix Environment Version Applications
+- Nix Hosting Applications
 
-api layer rusts
+Service Applications
 
-- stripe, quote gen, plane fly docs
+- Rust API Assembly Applications
+- Quote Generation applications
+- Stripe Interface applications
+- Plane Fly Docs API Interfaces Applications
+- Studio-Developed User Interface Applications
+- PostgreSQL Storage
