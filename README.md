@@ -7,7 +7,7 @@ James Sperry Jet Co.
 100k for studio interface dev budget 
 
 Hardware
-(2 servers at 2k each)
+(2 servers at 2k each) 
 
 Development Provisions 
 
