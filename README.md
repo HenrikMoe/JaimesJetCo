@@ -12,7 +12,7 @@ Hardware
 Development Provisions 
 
 - Nix Environment Version Applications
-- Nix Hosting Applications
+- Nix Hosting Applications 
 
 Service Applications
 
