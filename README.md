@@ -1,7 +1,7 @@
 James Sperry Jet Co. 
 
 2025 Development
-
+  
 7k /mo sal pt
 
 100k for studio interface dev budget 
