@@ -9,7 +9,7 @@ James Sperry Jet Co.
 Hardware
 (2 servers at 2k each) 
 
-Development Provisions 
+Development Provisions  
 
 - Nix Environment Version Applications
 - Nix Hosting Applications 
